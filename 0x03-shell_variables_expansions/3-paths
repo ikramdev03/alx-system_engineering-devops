@@ -1,2 +1,2 @@
-#!/bin/bah
-echo $PUSH |tr ":" \n" | wc -l
+#!/bin/bash
+echo $PUSH | tr ":" \n" | wc l
